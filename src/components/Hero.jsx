@@ -17,6 +17,19 @@ const Hero = () => (
                   
                   <p className={`${styles.paragraph} max-w-[600px]  mt-5 xl:ml-40`}> I love Blending Design and Analysis for Meaningful Solutions
                   </p>
+
+
+                {/* Add the Download CV Button here */}
+      <div className="mt-8 xl:ml-40">
+        <a 
+          href="https://drive.google.com/file/d/1jZ44u8MDp9n3_biuvpnmgTseGdY3Wyc5/view?usp=drive_link" 
+          download="Alfin_Jaison_CV.pdf" 
+          className="py-4 px-6 bg-cyan-500 rounded-lg font-poppins text-[18px] text-white outline-none 
+                     hover:bg-blue-800 active:bg-blue-900 transition-colors duration-300"
+        >
+          Download CV
+        </a>
+      </div>
     </div>
 
 {/*right side of screen */}
