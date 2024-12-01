@@ -22,7 +22,7 @@ const Hero = () => (
                 {/* Add the Download CV Button here */}
       <div className="mt-8 xl:ml-40">
         <a 
-          href="https://drive.google.com/file/d/1jZ44u8MDp9n3_biuvpnmgTseGdY3Wyc5/view?usp=drive_link" 
+          href="https://drive.google.com/file/d/1_SlOd9XvTbslLzK5txKeq-Ldzsa-FwPL/view?usp=sharing" 
           download="Alfin_Jaison_CV.pdf" 
           className="py-4 px-6 bg-cyan-500 rounded-lg font-poppins text-[18px] text-white outline-none 
                      hover:bg-blue-800 active:bg-blue-900 transition-colors duration-300"
@@ -39,11 +39,6 @@ const Hero = () => (
         <div className='absolute z-[1] w-[80%] h-[80%] rounded-full bottom-40 white__gradient'/>
         <div className='absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient'/>
 </div>
-
-
-
-
-
   </section>
 );
 
