@@ -19,7 +19,7 @@ const Billing = () =>
       About me 
     </h2>
     <p className={`${styles.paragraph}  max-w-[470px] mt-5`}>
-    I am a multi-disciplinary professional with a strong foundation in product design, UX/UI development, and business analysis. I bring a unique perspective to product design, integrating user-centered design principles with strategic business insights. My experience spans software development, market strategies, and predictive analytics, all of which fuel my passion for creating intuitive and impactful products
+    I am a multi-disciplinary professional with a strong foundation in product design, UX/UI development, and business analysis. I bring a unique perspective to product design, integrating user-centered design principles with strategic business insights. My experience spans software development, market strategies all of which fuel my passion for creating intuitive and impactful products
     </p>
 
   
@@ -29,7 +29,7 @@ const Billing = () =>
     <img src={apple} alt="LinkedIn" className="w-[150px] h-[75px] object-contain" />
   </a>
   <a href="mailto:alfinjaison2002@gmail.com" className="cursor-pointer">
-    <img src={google} alt="Email" className="w-[150px] h-[75px] object-contain" />
+    <img src={google} alt="Email" className="w-[100px] h-[75px] object-contain" />
   </a>
 </div>
 

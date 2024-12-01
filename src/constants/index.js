@@ -32,7 +32,7 @@ export const features = [
   {
     id: "feature-2",
     icon: star,
-    title: "Product Development Intern | UST Global",
+    title: "UI/UX Designer Intern | UST Global",
     content:
       "Designed UI/UX for an development of an Automated Mobile Robot (AMR) fleet management software, enhancing user engagement and interface usability.",
   },

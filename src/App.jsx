@@ -34,7 +34,7 @@ const App = () => {
     
      <Testimonials/>
      <Business/>
-     <CTA/>
+       {/*<CTA/>*/}
      <Footer/>
     </div>
   </div>
